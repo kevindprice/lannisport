@@ -3,6 +3,18 @@ Lannisport is a [Pelican][1] theme. The original repository can be found [here][
 ## Preview
 ![][2]
 
+## Modifications
+This theme:
+
+ * displays article summaries on the home page by default instead of the entire article.
+ * automatically detects when an article is summarized and adds an intuitive - continued - button.
+ * displays the article category directly under the title, next to the publish date.
+ * contains improved fonts in the "categories" pages.
+ * contains some additional minor adjustments in spacing.
+ 
+This modified theme should ideally be used together with the "summary" plugin to make for a cleaner homepage.
+
+
 ## Variables
 
 Some variables that could be used:
