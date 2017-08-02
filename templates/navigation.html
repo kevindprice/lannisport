@@ -1,0 +1,32 @@
+<nav>
+	<h2>Pages</h2>
+	<ul>
+		<li>
+			<ul>
+				<li>
+					<a href="{{SITEURL}}">Site Home</a>
+				</li>
+
+				{% for name, link in LINKS %}
+					</br><li><a href="{{ link }}" target="_blank">{{ name }}</a></li>
+				{% endfor %}
+
+			</ul>
+		</li>
+	</ul>
+</nav>
+
+<nav>
+	<h2>Categories</h2>
+	<ul>
+		<li>
+			<ul>
+				{% for cat in categories %}
+					</br><li>
+						<a href="{{SITEURL}}/{{cat.0.url}}">{{cat.0}}</a>
+					</li>
+				{% endfor %}
+			</ul>
+		</li>
+	</ul>
+</nav>

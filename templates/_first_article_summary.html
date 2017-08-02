@@ -1,0 +1,15 @@
+{% extends '_article_base.html' %}
+
+{% block article_content %}
+    <div id="first-article">
+        {{article.summary}}
+		
+		<!--A clever test to see if the article is summarized, or if it's just short.-->
+		{% if ((article.summary|length) < (article.content|length) * 0.7) %}
+		<a href='" + {{article.url}} +"'><div style='font:normal normal 400 1rem/1.125rem Georgia, serif; margin-left:.3in;'>— continued —</div></a>
+		
+		<!--{{article.summary|length}} {{article.content|length}}-->
+		{% endif %}
+		
+    </div>
+{% endblock %}
