@@ -27,6 +27,6 @@ Some variables that could be used:
 This theme is licensed under the [GPL v3][3] license.
 
   [1]: https://github.com/getpelican/pelican/ "Pelican"
-  [2]: https://raw.github.com/siovene/lannisport/master/preview.png "Lannisport"
+  [2]: https://priceisright204.github.io/images/siteimage.png
   [3]: https://raw.github.com/siovene/lannisport/master/LICENSE
   [4]: https://github.com/siovene/lannisport
