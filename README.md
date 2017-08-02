@@ -1,7 +1,7 @@
-Lannisport is a [Pelican] [1] theme. It can be seen live at http://iovene.com/.
+Lannisport is a [Pelican] theme. The original repository can be found [here]. It can be seen live at http://iovene.com/.
 
 ## Preview
-![] [2]
+![]
 
 ## Variables
 
@@ -24,7 +24,7 @@ Some variables that could be used:
 
 ## License
 
-This theme is licensed under the [GPL v3] [3] license.
+This theme is licensed under the [GPL v3] license.
 
   [1]: https://github.com/getpelican/pelican/ "Pelican"
   [2]: https://raw.github.com/siovene/lannisport/master/preview.png "Lannisport"
