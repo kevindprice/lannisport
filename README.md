@@ -13,7 +13,7 @@ This theme:
  * the sidebar moves to the bottom on small screens instead of disappearing.
  * contains some additional adjustments and fixes in stylesheets (spacing).
  
-This modified theme should ideally be used together with the "summary" plugin to make for a cleaner homepage.
+This modified theme should ideally be used together with the "summary" plugin to make for a cleaner homepage. This plugin allows you to customize summary lengths.
 
 
 ## Variables
