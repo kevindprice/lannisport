@@ -10,7 +10,8 @@ This theme:
  * automatically detects when an article is summarized and adds an intuitive - continued - button.
  * displays the article category directly under the title, next to the publish date.
  * contains improved fonts in the "categories" pages.
- * contains some additional minor adjustments in spacing.
+ * the sidebar moves to the bottom on small screens instead of disappearing.
+ * contains some additional adjustments and fixes in stylesheets (spacing).
  
 This modified theme should ideally be used together with the "summary" plugin to make for a cleaner homepage.
 
