@@ -119,8 +119,15 @@ hr {
 #sidebar {
     background-image: url(../img/gray_sand.png);
     border-top: 0.5rem solid #DC143C;
+<<<<<<< HEAD
     padding: 1.5rem 1rem 1rem;
     margin-top: -0.5rem;
+=======
+    /*padding: 1.5rem 1rem 1rem;*/
+	padding: 1.5rem 1rem 1rem;
+    margin-top: -0.5rem;
+    /*margin-left: 1.5rem;*/
+>>>>>>> 2ccebe9d204e782acee5ea83ed7345e47b1b27e1
     margin-left: 0.5rem;
 
     -webkit-border-radius: 0px 0px 4px 4px;
@@ -352,7 +359,11 @@ ul {
 }
 
 h2 {
+<<<<<<< HEAD
     font:normal normal 400 1.25rem Georgia, serif;
+=======
+    font:normal normal 400 1.25rem Georgia, serif;	
+>>>>>>> 2ccebe9d204e782acee5ea83ed7345e47b1b27e1
 }
 
 ol {

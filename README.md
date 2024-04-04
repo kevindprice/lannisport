@@ -1,4 +1,4 @@
-Lannisport is a [Pelican][1] theme. The original repository can be found [here][4]. This is a modified version of the theme, which can be seen in action at https://priceisright204.github.io/.
+Lannisport is a [Pelican][1] theme. The original repository can be found [here][4]. This is a modified version of the theme, which can be seen in action at https://kevindprice.github.io/.
 
 ## Preview
 ![][2]
@@ -40,6 +40,6 @@ Some variables that could be used:
 This theme is licensed under the [GPL v3][3] license.
 
   [1]: https://github.com/getpelican/pelican/ "Pelican"
-  [2]: https://priceisright204.github.io/images/siteimage.png
+  [2]: https://kevindprice.github.io/images/siteimage.png
   [3]: https://raw.github.com/siovene/lannisport/master/LICENSE
   [4]: https://github.com/siovene/lannisport
